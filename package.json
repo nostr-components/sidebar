@@ -1,6 +1,6 @@
 {
   "name": "nostr-components-sidebar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "sidebar",
   "main": "lib/index.js",
   "scripts": {
